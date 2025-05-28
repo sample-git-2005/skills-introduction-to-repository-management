@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sample-git-2005
+/src/backend/database.py      @sample-git-2005
+/src/backend/routers/auth.py  @sample-git-2005
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sample-git-2005
